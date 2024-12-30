@@ -156,9 +156,3 @@ Where:
 - `x₁, x₂, ..., xₙ` are the independent variables
 
 ---
-
-### Important Considerations
-- Always split your data into training and testing sets
-- Use cross-validation to ensure model generalizability
-- Be aware of potential overfitting
-- Choose metrics appropriate to your specific problem and domain
